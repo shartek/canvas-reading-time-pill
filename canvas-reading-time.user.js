@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Canvas RCE Reading Time Range (MM:SS Format)
 // @namespace    Sharscapes - Canvas Tools
-// @version      1.9
+// @version      1.9.1
 // @description  Show and update reading time range next to word count in Canvas Rich Content Editor
+// @author       Shar ⭐
 // @match        https://*.instructure.com/*
 // @updateURL    https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
 // @downloadURL  https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
