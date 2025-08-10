@@ -1,6 +1,7 @@
 # ⏱️ Canvas RCE Reading Time Range (MM:SS Format)
 
-![Made by Shar ⭐](https://img.shields.io/badge/Made%20by-Shar%20%E2%AD%90-blueviolet)
+![Made with 🩷 by Shar ⭐](https://img.shields.io/badge/Made%20with%20%E2%9C%A7%20by-Shar%20%E2%AD%90-blueviolet)
+
 
 A Tampermonkey userscript that adds a reading time estimate next to the word count in Canvas's Rich Content Editor (RCE). Designed for instructional designers and faculty who want to better gauge cognitive load and learner pacing.
 
