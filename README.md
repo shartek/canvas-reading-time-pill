@@ -1,5 +1,7 @@
 # ⏱️ Canvas RCE Reading Time Range (MM:SS Format)
 
+![Made by Shar ⭐](https://img.shields.io/badge/Made%20by-Shar%20%E2%AD%90-blueviolet)
+
 A Tampermonkey userscript that adds a reading time estimate next to the word count in Canvas's Rich Content Editor (RCE). Designed for instructional designers and faculty who want to better gauge cognitive load and learner pacing.
 
 ---
@@ -30,3 +32,25 @@ To ensure updates work, the script includes:
 ```javascript
 @updateURL    https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
 @downloadURL  https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+You’re free to use, modify, and distribute this script with attribution.  
+No warranty is provided—use at your own risk.
+
+---
+
+## 📋 Changelog
+
+### 1.9.1 — August 10, 2025
+- Added `@author` field to fix Tampermonkey display
+- Updated README with install instructions and changelog
+
+### 1.9 — August 9, 2025
+- Initial public release
+- Displays reading time range in MM:SS format
+- Auto-updates as content changes in Canvas RCE
