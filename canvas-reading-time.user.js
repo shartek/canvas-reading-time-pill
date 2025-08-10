@@ -4,6 +4,8 @@
 // @version      1.9
 // @description  Show and update reading time range next to word count in Canvas Rich Content Editor
 // @match        https://*.instructure.com/*
+// @updateURL    https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
+// @downloadURL  https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
 // @grant        none
 // ==/UserScript==
 
