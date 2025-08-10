@@ -32,6 +32,29 @@ To ensure updates work, the script includes:
 ```javascript
 @updateURL    https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
 @downloadURL  https://raw.githubusercontent.com/shartek/canvas-reading-time-pill/main/canvas-reading-time.user.js
+````
+---
+
+## 🧠 Why Reading Time?
+
+Reading time estimates help learners manage their time and expectations.  
+They support:
+
+- Cognitive load awareness
+- Transparent pacing
+- Accessible course design
+
+This script was created to help instructional designers and faculty make informed decisions about content length and learner experience.
+
+---
+
+## 🛠 Development Notes
+
+- Written in vanilla JavaScript
+- No external dependencies
+- Designed for Canvas's Rich Content Editor (RCE)
+- Tested in Chrome
+- Built with accessibility and cognitive load in mind
 
 ---
 
